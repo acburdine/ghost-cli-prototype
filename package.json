@@ -23,7 +23,7 @@
   "dependencies": {
     "bluebird": "3.4.1",
     "commander": "2.9.0",
-    "core-object": "2.0.5",
+    "core-object": "2.0.6",
     "download": "5.0.2",
     "inquirer": "1.1.2",
     "lodash": "4.14.2",
